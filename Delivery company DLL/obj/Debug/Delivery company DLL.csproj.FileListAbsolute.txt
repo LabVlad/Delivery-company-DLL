@@ -1,0 +1,5 @@
+D:\TEST TASK\C#\library\Delivery company DLL\Delivery company DLL\bin\Debug\Delivery company DLL.dll
+D:\TEST TASK\C#\library\Delivery company DLL\Delivery company DLL\bin\Debug\Delivery company DLL.pdb
+D:\TEST TASK\C#\library\Delivery company DLL\Delivery company DLL\obj\Debug\Delivery company DLL.csprojResolveAssemblyReference.cache
+D:\TEST TASK\C#\library\Delivery company DLL\Delivery company DLL\obj\Debug\Delivery company DLL.dll
+D:\TEST TASK\C#\library\Delivery company DLL\Delivery company DLL\obj\Debug\Delivery company DLL.pdb
